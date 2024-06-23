@@ -1,19 +1,27 @@
-👋 Hello, I'm [Your Name]!
-🛠️ Blockchain Developer | Decentralized Finance Enthusiast
-🚀 About Me
-I am a passionate Blockchain Developer with extensive experience in creating and deploying decentralized applications (dApps). My expertise lies in Solidity, React JS, and Bitcoin. I am particularly interested in the Decentralized Finance (DeFi) space, where I contribute to building innovative financial solutions that operate without intermediaries.
-🔧 Tech Stack
-Blockchain Development:
--Solidity
--Javascript
-Frontend Development:
--ReactJS
+<h1>👋 Hello, I'm Ipyana <h1/>
+<h3>🛠️ Blockchain Developer | Decentralized Finance Enthusiast</h3>
+<br/> 
 
-📫 How to Reach Me
-LinkedIn: Your LinkedIn
-Twitter: Your Twitter
-GitHub: Your GitHub
-Email: mwampetaipyana28@gmail.com
+<h2>🚀 About Me </h2>
+<p> I am a passionate Blockchain Developer with extensive experience in creating and deploying decentralized applications (dApps).
+My expertise lies in Solidity, React JS, and Bitcoin. 
+I am particularly interested in the Decentralized Finance (DeFi) space, where I contribute to building innovative financial solutions that operate without intermediaries.</p>
+
+<h2>🔧 Tech Stack</h2>
+<h4>
+  Blockchain Development:
+</h4>
+<p>Solidity</p>
+<p>Javascript</p>
+
+<h4>Frontend Development:</h4>
+<p>ReactJS</p>
+
+<h2>📫 How to Reach Me</h2>
+<p>LinkedIn: <span>https://www.linkedin.com/in/ipyana-mwampeta-bab193201</span></p> 
+<p>X(Twitter) <span>@ipyanamwampeta</span></p>
+<p>GitHub: <span>@mwampetaipyana</span></p>
+<p>Email: <span>mwampetaipyana28@gmail.com</span></p>
 
 
 
