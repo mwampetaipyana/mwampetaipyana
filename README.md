@@ -16,6 +16,7 @@ I am particularly interested in the Decentralized Finance (DeFi) space, where I 
 
 <h4>Frontend Development:</h4>
 <p>ReactJS</p>
+<p>Vue JS</p>
 
 <h2>📫 How to Reach Me</h2>
 <p>LinkedIn: <span>https://www.linkedin.com/in/ipyana-mwampeta-bab193201</span></p> 
