@@ -13,6 +13,7 @@ I am particularly interested in the Decentralized Finance (DeFi) space, where I 
 </h4>
 <p>Solidity</p>
 <p>Javascript</p>
+<p>Rust</p>
 
 <h4>Frontend Development:</h4>
 <p>ReactJS</p>
